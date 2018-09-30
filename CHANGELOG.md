@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.2.1 - 30/09/2018
+* Improve README and add example
+
 ## 0.2.0 - 30/09/2018
 * Enable POST Actions endpoint
 
